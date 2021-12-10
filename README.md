@@ -7,11 +7,11 @@ The purpose of this project was to gather earthquake GeoJSON data from USGS API 
 Three Interactive Map Views
 
 - Streets View
-![Streets_View.jpg](images/Streets_View.jpg)
+![Streets_View.jpg](Earthquake_Challenge/images/Streets_View.jpg)
 
 - Satellite View
-![Satellite_View.jpg](images/Satellite_View.jpg)
+![Satellite_View.jpg](Earthquake_Challenge/images/Satellite_View.jpg)
 
 - Dark View
-![Dark_View.jpg](images/Dark_View.jpg)
+![Dark_View.jpg](Earthquake_Challenge/images/Dark_View.jpg)
 
